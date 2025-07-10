@@ -1,0 +1,6 @@
+elif(i in m_b):
+happiness+=1
+
+m_a = set(map(int,input().split()))
+
+n_int = list(map(int,input().split()))
